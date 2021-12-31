@@ -1,4 +1,4 @@
-<h1 align= center><b>⭐️ Pyro String Generator ⭐️</b></h1>
+<h1 align= center><b>⭐️ String Session Generator ⭐️</b></h1>
 <h3 align = center> Genrate String Session Using this bot. Made by TeamUltronX🔥</h3>
 
 <p align="center">
