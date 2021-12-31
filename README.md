@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/github/issues/TheUltronX/StringSessionGenerator?style=for-the-badge" alt="Issues">
 </p>
 
-##String Session Demo Bot:
+## String Session Demo Bot:
 <a href="https://t.me/UltronSStringSessionGenerator_bot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 
 ## Environment Variables
