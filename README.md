@@ -15,7 +15,7 @@
 </p>
 
 ## String Session Demo Bot:
-<a href="https://t.me/UltronSStringSessionGenerator_bot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
+<a href="https://t.me/UltronSStringSession_bot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 
 ## Environment Variables
 
